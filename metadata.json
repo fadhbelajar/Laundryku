@@ -1,0 +1,6 @@
+{
+  "name": "Laundry Almawaddah",
+  "description": "Sistem Manajemen Laundry Terintegrasi untuk Santriwati, Warga Pesantren, dan Masyarakat Umum.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
